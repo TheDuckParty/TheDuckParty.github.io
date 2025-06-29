@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on DuckParty&#39;s Blog</title>
+    <link>https://theduckparty.github.io/tags/ai/</link>
+    <description>Recent content in AI on DuckParty&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 Jun 2025 10:00:00 +0200</lastBuildDate><atom:link href="https://theduckparty.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как я делал свой «3-в-ряд»</title>
+      <link>https://theduckparty.github.io/2025/06/29-match-three/</link>
+      <pubDate>Sun, 29 Jun 2025 10:00:00 +0200</pubDate>
+      
+      <guid>https://theduckparty.github.io/2025/06/29-match-three/</guid>
+      <description>Если вы ещё не попробовали результат моих трудов, то милости прошу: https://t.me/ZenMatch3bot/game
+Игры для расслабона Мне нравятся игры-залипалки. Такие, в которых не надо думать, переживать, ждать чего-то специально. Вот буквально “Plug&amp;amp;Play”, как обещали в Windows 98. В качестве хорошей залипалки я всегда привожу [1] в пример Slow Roads: настраиваемый симулятор езды по бесконечным дорогам в ёбаное никуда.
+Вообще говоря, у меня есть несколько собственных мини-игр, в основном выполненных в виде Telegram-ботов, но мне всегда хотелось что-то более интересное и красивое.</description>
+    </item>
+    
+  </channel>
+</rss>

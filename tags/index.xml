@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on DuckParty&#39;s Blog</title>
+    <link>https://theduckparty.github.io/tags/</link>
+    <description>Recent content in Tags on DuckParty&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 Jun 2025 10:00:00 +0200</lastBuildDate><atom:link href="https://theduckparty.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://theduckparty.github.io/tags/ai/</link>
+      <pubDate>Sun, 29 Jun 2025 10:00:00 +0200</pubDate>
+      
+      <guid>https://theduckparty.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>https://theduckparty.github.io/tags/games/</link>
+      <pubDate>Sun, 29 Jun 2025 10:00:00 +0200</pubDate>
+      
+      <guid>https://theduckparty.github.io/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🇵🇭 Philippines</title>
+      <link>https://theduckparty.github.io/tags/-philippines/</link>
+      <pubDate>Thu, 26 Dec 2024 18:00:00 +0100</pubDate>
+      
+      <guid>https://theduckparty.github.io/tags/-philippines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🇷🇸 Serbia</title>
+      <link>https://theduckparty.github.io/tags/-serbia/</link>
+      <pubDate>Thu, 26 Dec 2024 18:00:00 +0100</pubDate>
+      
+      <guid>https://theduckparty.github.io/tags/-serbia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLM</title>
+      <link>https://theduckparty.github.io/tags/llm/</link>
+      <pubDate>Sat, 16 Nov 2024 18:00:00 +0100</pubDate>
+      
+      <guid>https://theduckparty.github.io/tags/llm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
