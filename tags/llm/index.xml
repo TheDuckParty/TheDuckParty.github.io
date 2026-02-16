@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LLM on DuckParty&#39;s Blog</title>
+    <link>https://theduckparty.github.io/tags/llm/</link>
+    <description>Recent content in LLM on DuckParty&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 Nov 2024 18:00:00 +0100</lastBuildDate><atom:link href="https://theduckparty.github.io/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI как разговорник v2.0</title>
+      <link>https://theduckparty.github.io/2024/11/16/llm-learn-serbian/</link>
+      <pubDate>Sat, 16 Nov 2024 18:00:00 +0100</pubDate>
+      
+      <guid>https://theduckparty.github.io/2024/11/16/llm-learn-serbian/</guid>
+      <description>Привет!
+Честно говоря, ещё год назад я был скептично настроен по отношению к AI, точнее, к большим языковым моделям, LLM, считая это тупой (во всех смыслах) игрушкой.
+Теперь же я использую ИИ практически каждый день для самых разных задач. Реже всего, как ни странно, для написания кода, там свои приколы и локальные модели очень сильно тупят. А тратить деньги на Pro-тарифы Claude/ChatGPT я не хочу. Но даже бесплатно можно найти кучу применений, об одном из которых сейчас расскажу.</description>
+    </item>
+    
+  </channel>
+</rss>

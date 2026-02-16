@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Windows on DuckParty&#39;s Blog</title>
+    <link>https://theduckparty.github.io/tags/windows/</link>
+    <description>Recent content in Windows on DuckParty&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://theduckparty.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Делаю Windows чуточку приятнее для себя</title>
+      <link>https://theduckparty.github.io/2026/01/20/make-windows-better/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://theduckparty.github.io/2026/01/20/make-windows-better/</guid>
+      <description>Привет!
+В своём новогоднем посте я хвастался своим новым игровым ПК. Но, к сожалению, к играм прилагается ещё Windows, которую надо хотя бы как-нибудь настроить, чтобы не тошнило. Вопреки расхожему мнению, Windows 11 мне лично сильно удобнее «десятки», однако и здесь есть пара моментов, которые пришлось кастомизировать.
+Переключение раскладки по CapsLock Это моя вечная головная боль на Винде. Для тех, кто не в курсе — уже больше 10 лет я переключаю раскладку клавиатуры (Ru/En) исключительно по капсу, это позволяет мне печатать предложения вида «Нажмите кнопку Enter для ввода, а Escape для отмены» не меняя положения рук и очень быстро.</description>
+    </item>
+    
+  </channel>
+</rss>
